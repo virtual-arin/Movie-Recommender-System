@@ -19,7 +19,7 @@ A content-based movie recommendation system that suggests similar movies based o
 
 ```bash
 git clone https://github.com/virtual-arin/Movie-Recommendation-System-Project.git
-cd Movie-Recommendation-System
+cd Movie-Recommendation-System-Project
 pip install -r requirements.txt
 streamlit run app.py
 
