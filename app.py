@@ -5,7 +5,7 @@ import streamlit as st
 # =============================
 # CONFIG
 # =============================
-API_BASE = os.getenv("API_URL", "https://server-2ou7.onrender.com")
+API_BASE = os.getenv("API_URL", "https://movie-recommendation-system-project-6cbz.onrender.com")
 st.set_page_config(page_title="Movie Recommender", page_icon="🎬", layout="wide")
 
 # =============================
