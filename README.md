@@ -34,4 +34,4 @@ model.pkl – similarity model
 movies.pkl – dataset
 
 📬 Contact
-Mail - arinsharma.global@gmail.coom
+Mail - arinsharma.infinity@gmail.coom
