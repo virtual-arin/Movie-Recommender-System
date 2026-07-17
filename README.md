@@ -8,6 +8,7 @@ A content-based movie recommendation system that suggests similar movies based o
 - Scikit-learn
 - Streamlit
 - OMDb API
+- FastAPI
 
 ## ⚙️ Features
 - Recommend similar movies
