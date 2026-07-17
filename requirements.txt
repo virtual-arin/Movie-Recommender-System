@@ -1,3 +1,4 @@
+ipykernel
 numpy
 pandas
 matplotlib
@@ -10,5 +11,5 @@ fastapi
 httpx
 python-dotenv
 scikit-learn
-
+nltk
 
