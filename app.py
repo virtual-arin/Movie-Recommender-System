@@ -3,7 +3,6 @@ import requests
 import streamlit as st
 
 # ============ CONFIG ============
-# 👇 Point to your LOCAL backend
 API = "https://recommender-server-4y66.onrender.com" or "http://127.0.0.1:8000"
 st.set_page_config(page_title="Movie Recommender", page_icon="🎬", layout="wide")
 
@@ -16,7 +15,7 @@ st.markdown("""
 .movie-poster img {
     height: 330px !important;
     width: 100% !important;
-    object-fit: cover;        /* crop nicely instead of stretching */
+    object-fit: cover; 
     border-radius: 10px;
 }
 
@@ -24,7 +23,7 @@ st.markdown("""
 .movie-title {
     font-size: 0.9rem;
     line-height: 1.2rem;
-    height: 2.4rem;           /* fixed height = equal alignment */
+    height: 2.4rem;     
     overflow: hidden;
     margin: 8px 0;
     text-align: center;
