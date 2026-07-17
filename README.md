@@ -24,7 +24,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 🔑 API Setup
-Get API key from: http://www.omdbapi.com/apikey.aspx
+[!Get API key](http://www.omdbapi.com/apikey.aspx)
 Add in code:
             OMDB_API_KEY = "YOUR_API_KEY"
 
