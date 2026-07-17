@@ -4,7 +4,7 @@ import streamlit as st
 
 # ============ CONFIG ============
 # 👇 Point to your LOCAL backend
-API = "http://127.0.0.1:8000"
+API = "https://recommender-server-4y66.onrender.com" or "http://127.0.0.1:8000"
 st.set_page_config(page_title="Movie Recommender", page_icon="🎬", layout="wide")
 
 # ============ SIMPLE STYLES ============
