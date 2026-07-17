@@ -26,7 +26,7 @@ streamlit run app.py
 🔑 API Setup
 Get API key from: http://www.omdbapi.com/apikey.aspx
 Add in code:
-            api_key = "YOUR_API_KEY"
+            OMDB_API_KEY = "YOUR_API_KEY"
 
 📌 Project Files
 app.py – Streamlit app
